@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2af42110-412c-4d70-a3c5-53dfe766cc7d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/krida_tests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bug_finder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/create_word_report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generate_report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_all.2py.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_all.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_signup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/test.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
